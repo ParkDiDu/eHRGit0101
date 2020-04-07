@@ -42,3 +42,23 @@
 2. 아이템 2  
   2.1. 하위아이템  
     2.1.1. 하위아이템  
+
+## 코드 블록
+``` 프로그래밍 언어이름
+코드 내용
+```
+
+```python
+def func();
+print "didu"
+pass
+```
+
+```javascript
+var data = "didu";
+data.song = "일본 가고싶";
+```
+
+가로선
+---
+***
