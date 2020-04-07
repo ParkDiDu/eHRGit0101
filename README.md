@@ -70,5 +70,5 @@ data.song = "일본 가고싶";
 [DIDU SPRING](https://www.naver.com/ "네이버")  
 
 강조  
-___강조텍스트___
+__강조텍스트__  
 강조텍스트
