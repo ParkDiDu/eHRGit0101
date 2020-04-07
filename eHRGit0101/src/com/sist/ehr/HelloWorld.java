@@ -5,7 +5,8 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello, Git!");
 		System.out.println("Hello, Git~~");
-		System.out.println("³»°¡ Ä¿¹ÔÀ» ÇØº¼°Ô^^");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ Ä¿ï¿½ï¿½ï¿½ï¿½ ï¿½Øºï¿½ï¿½ï¿½^^");
+		System.out.println("ì§€ìˆ˜ì•¼ í•´ì¥ì€ ë¬´ì—‡ìœ¼ë¡œ í•˜ë‹ˆ?");
 
 	}
 
